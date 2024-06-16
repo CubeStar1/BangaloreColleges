@@ -12,13 +12,17 @@
 ```bash
 git clone https://github.com/CubeStar1/BangaloreColleges.git
 ```
+- Change the directory to the cloned repository
+```bash
+cd BangaloreColleges
+```
 - Install the required packages using the following command:
 ```bash
 pip install -r requirements.txt
 ```
 - Run the app using the following command:
 ```bash
-streamlit run app.py
+streamlit run Home.py
 ```
 
 ## Hosted App
