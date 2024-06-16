@@ -22,5 +22,5 @@ streamlit run app.py
 ```
 
 ## Hosted App
-- The app is hosted on Heroku and can be accessed using the following link:
+- The app is hosted on Streamlit and can be accessed using the following link:
 - [Bangalore College Cut-offs](https://bangalore-colleges.streamlit.app)
